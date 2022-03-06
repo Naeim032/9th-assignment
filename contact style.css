@@ -1,0 +1,30 @@
+body{
+
+    background-color: rgb(52, 14, 88);;
+
+}
+
+.cntparant{
+
+          text-align: center;
+          font-size: 35px;
+
+}
+
+#input1{
+
+        margin-top: 50px;
+        text-align: center;
+        color:whitesmoke;
+
+}
+
+#input1 input{
+
+             background-color:rgb(52, 14, 88) ;
+             border: none;
+             text-decoration: underline;
+             color: white;
+             font-size: 30px;
+             
+}
